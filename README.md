@@ -1,9 +1,9 @@
 # Windows
-https://docs.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys
+  https://docs.microsoft.com/ru-ru/windows-server/get-started/kms-client-activation-keys
 
-slmgr/ipk MH37W-N47XK-V7XM9-C7227-GCQG9
-slmgr/skms kms.digiboy.ir
-slmgr/ato
+  slmgr/ipk MH37W-N47XK-V7XM9-C7227-GCQG9
+  slmgr/skms kms.digiboy.ir
+  slmgr/ato
 
 MSN Финансы: Get-AppxPackage *bingfinance* | Remove-AppxPackage 
 3D Builder: Get-AppxPackage *3dbuilder* | Remove-AppxPackage
