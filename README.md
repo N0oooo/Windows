@@ -26,6 +26,8 @@ Xbox: Get-AppxPackage *xboxapp* | Remove-AppxPackage
 Кортана Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage   
 Ваш телефон Get-AppxPackage *Microsoft.YourPhone* -AllUsers | Remove-AppxPackage  
 
+Система питания:   powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+
 
 
 
